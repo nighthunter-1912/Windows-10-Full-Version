@@ -251,4 +251,4 @@ This repository serves as the official landing page for Windows 10. The software
 **Get the most recent version of Windows 10 today!**
 
 ---
-**Last updated:** 2026-10-16 22:26:12 UTC
+**Last updated:** 2026-10-17 00:59:10 UTC
